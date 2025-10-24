@@ -1,0 +1,26 @@
+{
+  "name": "skate-story-html",
+  "version": "1.0.0",
+  "description": "Skate Story Landing Page - HTML, CSS, Gulp",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp watch",
+    "build": "gulp build",
+    "serve": "gulp serve"
+  },
+  "keywords": ["skate", "story", "landing", "page"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "browser-sync": "^2.29.3",
+    "cssnano": "^6.1.2",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-terser": "^2.1.0",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.1"
+  }
+}
+
