@@ -1,0 +1,20 @@
+{
+  "name": "skate-story-html",
+  "version": "1.0.0",
+  "description": "Skate Story static site with Gulp and Tailwind",
+  "scripts": {
+    "build": "gulp build",
+    "dev": "gulp serve"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-terser": "^2.1.0",
+    "browser-sync": "^2.27.10",
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.2",
+    "cssnano": "^5.1.13"
+  }
+}
